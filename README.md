@@ -1,2 +1,2 @@
 # infovis
-Acá van a estar mis trabajos de la materia CD.06
+Trabajos de la materia CD.06
